@@ -26,7 +26,7 @@ _Temario sobre las cosas más básicas del lenguaje._
 * [Algoritmos]
 * [Ejercicios de lógica]
 
-## Autor ✒️
+## Author ✒️
 
 
 * **Juan P. Pretelt T.** 
