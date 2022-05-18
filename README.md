@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil?datasetId=
 ```
 
 
-## Projects 🔧
+## Laboratories 🔧
 
 Talleres donde manejo información con numpy o pandas y manejo de archivos CSV.
 
