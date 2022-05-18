@@ -9,7 +9,17 @@ Proyecto donde obtengo información de misiones espaciales de la web, la manejo 
 <br>
 Los datos de las misiones espaciales se encuentran en:
 ```
-https://es.wikipedia.org/wiki/Anexo:Misiones_espaciales.
+https://es.wikipedia.org/wiki/Anexo:Misiones_espaciales
+```
+
+
+## Brazil Forest Fires 🌳
+
+Proyecto donde manejo data con pandas, sobre los incendios forestales ocurridos en el Amazonas desde 1998 hasta 2017. y la grafico con matplotlib.
+<br>
+Los datos de los incendios forestales se encuentran en:
+```
+https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil?datasetId=316056
 ```
 
 
