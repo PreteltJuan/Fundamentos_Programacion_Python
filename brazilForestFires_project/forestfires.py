@@ -58,7 +58,7 @@ color = (0.5,0.1,0.5,0.6))
 
 plt.yticks(fontsize=16)
 plt.xticks(fontsize=10)
-plt.suptitle('Amazon Forest Fires Over the Months', fontsize=20)
+plt.suptitle('Brazil Forest Fires Over the Months', fontsize=20)
 plt.title('Using Data from Years 1998 - 2017', fontsize=20) 
 plt.xlabel('Month', fontsize=20) 
 plt.ylabel('Number of Forest Fires', fontsize=20)
