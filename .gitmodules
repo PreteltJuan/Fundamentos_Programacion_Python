@@ -1,0 +1,3 @@
+[submodule "space-missions"]
+	path = space-missions
+	url = https://github.com/PreteltJuan/space-missions
