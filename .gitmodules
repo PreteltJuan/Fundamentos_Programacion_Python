@@ -1,5 +1,5 @@
 [submodule "space-missions"]
-	path = data-science/space-missions
+	path = space-missions
 	url = https://github.com/PreteltJuan/space-missions
 [submodule "brazil-forest-fires"]
 	path = brazil-forest-fires
